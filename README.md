@@ -13,6 +13,7 @@
 ---
 
 ## 🧰 Tech Stack
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,streamlit,mysql,git,github" />
 </p>
@@ -33,6 +34,7 @@ Interactive Streamlit dashboard for FIFA World Cup data analysis.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Palak5050&show_icons=true&theme=tokyonight" />
 </p>
