@@ -3,45 +3,55 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 BCA Graduate & AI/ML Trainee  
-- 🧠 Passionate about Machine Learning and Data Science  
-- 🛠 Building real-world, end-to-end ML projects  
-- 📊 Interested in solving business problems using data  
-- 🌱 Currently learning ML, NLP & model deployment
+# 💫 About Me:
+🚀 AI/ML Enthusiast & Python Developer  
+📊 Focused on Machine Learning, Data Analytics & real-world ML applications  
+🛠️ Building end-to-end ML projects using Python & Streamlit  
+📚 Experience in data preprocessing, feature engineering & model training  
+🧠 Strong interest in solving business problems using data-driven approaches  
+🌱 Currently learning ML, basic NLP & model deployment  
 
 ---
 
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,streamlit,mysql,git,github" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-sharma-7b8552349/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmapalak5275@gmail.com)
 
 ---
 
-## 📌 Featured Projects
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔹 Bank Loan Prediction
+---
+
+# 📌 Featured Projects:
+🔹 **Bank Loan Prediction**  
 Machine Learning project to predict bank loan approval using customer data.  
-Built with Python, Scikit-learn, and Streamlit.  
-🔗 https://github.com/Palak5050/bank-loan-prediction
+Built with Python, Scikit-learn & Streamlit.  
+🔗 https://github.com/Palak5050/bank-loan-prediction  
 
-### 🔹 World Cup Data Analysis Dashboard
+🔹 **World Cup Data Analysis Dashboard**  
 Interactive Streamlit dashboard for FIFA World Cup data analysis.  
-🔗 https://github.com/Palak5050/world-cup-data-analysis-dashboard
+🔗 https://github.com/Palak5050/world-cup-data-analysis-dashboard  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Palak5050&theme=tokyonight&hide_border=false&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Palak5050&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak5050&theme=tokyonight&hide_border=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak5050&show_icons=true&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak5050&theme=tokyonight" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Palak5050&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
