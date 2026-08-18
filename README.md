@@ -1,5 +1,3 @@
-Absolutely — your GitHub profile can be made much stronger by positioning you as an **AI/ML + Full-Stack AI developer**, rather than only a Python/ML learner. I’d also add **RAG, LLMs, Neural Networks, Deep Learning, NLP, FastAPI, MongoDB, and React** while keeping the description realistic.
-
 <h1 align="center">Hi 👋, I'm Palak Sharma</h1>
 
 <h3 align="center">AI/ML Enthusiast | Python Developer | Data Analytics | Generative AI</h3>
