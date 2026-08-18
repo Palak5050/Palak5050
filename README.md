@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Palak Sharma</h1>
 
-<h3 align="center">AI/ML Enthusiast | Python Developer | Data Analytics | Generative AI</h3>
+<h3 align="center">AI/ML Enthusiast | Python Developer | Data Analyst | Generative AI</h3>
 
 <p align="center">
+  <a href="https://github.com/Palak5050">GitHub</a> •
   <a href="https://www.linkedin.com/in/palak-sharma-7b8552349/">LinkedIn</a> •
-  <a href="mailto:sharmapalak5275@gmail.com">Email</a> •
-  <a href="https://github.com/Palak5050">GitHub</a>
+  <a href="mailto:sharmapalak5275@gmail.com">Email</a>
 </p>
 
 ---
@@ -16,17 +16,19 @@
 
 🤖 Interested in **Machine Learning, Deep Learning, NLP, Generative AI, RAG & LLM applications**
 
-🐍 Building end-to-end AI/ML projects using **Python, Scikit-learn, Streamlit & modern AI tools**
+🐍 Building end-to-end AI/ML projects using **Python, Scikit-learn, Streamlit & modern AI technologies**
 
 🧠 Exploring **Neural Networks, Deep Learning, Natural Language Processing and Large Language Models**
 
-🔎 Learning to build **Retrieval-Augmented Generation (RAG)** applications using LLMs and vector databases
+🔎 Learning to build **Retrieval-Augmented Generation (RAG)** applications using LLMs and vector search
 
-📊 Experienced with **Data Preprocessing, Feature Engineering, Exploratory Data Analysis & Model Training**
+📊 Interested in **Data Analytics, Data Visualization, Business Intelligence and Dashboard Development**
 
-🌐 Exploring **FastAPI, REST APIs and React** for building and integrating modern applications
+🌐 Exploring **FastAPI, REST APIs and React** for building modern AI-powered applications
 
-💡 Interested in solving real-world business problems using **data-driven and AI-powered solutions**
+🛠️ Experienced with **Data Preprocessing, Feature Engineering, Exploratory Data Analysis & Model Training**
+
+💡 Passionate about solving real-world problems through **data-driven and AI-powered solutions**
 
 🌱 Currently improving my skills in **Generative AI, LLMs, RAG, Deep Learning and Full-Stack AI Development**
 
@@ -41,31 +43,59 @@
 * Generative AI
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
-* Text Classification
-* Regression & Classification
+* Prompt Engineering
+* Text Processing
+* Regression
+* Classification
 * Clustering
 * Feature Engineering
-* Model Evaluation
 * Data Preprocessing
 * Exploratory Data Analysis
+* Model Evaluation
 * Model Deployment
 
 ---
 
 # 💻 Tech Stack
 
-### 🐍 Programming & Data
+### 🐍 Programming & Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🤖 Machine Learning & AI
+### 📊 Business Intelligence & Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+
+* Power BI
+* Tableau
+* Data Visualization
+* Interactive Dashboards
+* Business Intelligence
+* KPI Reporting
+* Data Analysis
+
+### 🤖 Machine Learning & Deep Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Supervised Learning
+* Unsupervised Learning
+* Regression
+* Classification
+* Clustering
+* Model Training
+* Model Evaluation
+* Feature Engineering
 
 ### 🧠 NLP / LLM / Generative AI
 
@@ -73,13 +103,15 @@
 ![LLM](https://img.shields.io/badge/LLM-Generative_AI-8A2BE2?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00A67E?style=for-the-badge)
 
+* Natural Language Processing
 * Large Language Models
+* Generative AI
+* Retrieval-Augmented Generation
 * Prompt Engineering
-* RAG Pipelines
+* Text Processing
 * Embeddings
 * Vector Search
-* Text Processing
-* NLP
+* AI Application Development
 
 ### 🌐 Web & Application Development
 
@@ -87,67 +119,128 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🗄️ Database & Tools
+* Streamlit
+* FastAPI
+* REST APIs
+* React
+* Frontend Development
+* AI Web Applications
+
+### 🗄️ Database & Development Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 
+* MongoDB
+* MySQL
+* Git
+* GitHub
+* Database Management
+
 ---
 
 # 📌 Featured Projects
 
-### 🏦 Bank Loan Prediction
+## 🏦 Bank Loan Prediction
 
 Machine Learning application that predicts **bank loan approval** based on customer information.
 
+### 🔹 Features
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Machine Learning model training
+* Prediction
+* Interactive Streamlit interface
+
 **Tech:** Python, Pandas, Scikit-learn, Machine Learning, Streamlit
 
-🔗 [https://github.com/Palak5050/bank-loan-prediction](https://github.com/Palak5050/bank-loan-prediction)
+🔗 https://github.com/Palak5050/bank-loan-prediction
 
 ---
 
-### 🏠 Home Price Prediction
+## 🏠 Home Price Prediction
 
-Machine Learning application for predicting **house prices based on property features**.
+Machine Learning application designed to predict **house prices based on property features**.
 
-Implemented data preprocessing, feature scaling and regression models to analyze the relationship between housing features and prices.
+### 🔹 Features
+
+* Data preprocessing
+* Feature scaling
+* Exploratory Data Analysis
+* Regression modeling
+* Model comparison
+* Price prediction
+* Interactive Streamlit application
+
+### 🔹 Models
+
+* Linear Regression
+* Ridge Regression
+* Lasso Regression
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Regression, Streamlit
 
-**Models:** Linear Regression, Ridge Regression & Lasso Regression
-
 ---
 
-### 📄 CAREER BOOST — Resume Analyser
+## 📄 CAREER BOOST — Resume Analyser
 
-An AI-powered **Resume Analysis and Career Recommendation application** designed to help users understand their resumes and identify suitable career opportunities.
+An AI-powered **Resume Analysis and Career Recommendation application** designed to help users understand their resumes and discover suitable career opportunities.
 
-**Key Features:**
+### 🔹 Features
 
 * 📄 PDF Resume Upload
 * 🔍 Resume Text Extraction
 * 🧠 Skill Extraction
 * 📊 Resume Analysis
 * 💼 Career Recommendations
-* 🔎 Job Search & Job Applications
+* 🔎 Job Search
+* 📩 Job Application Flow
 * 🏢 Company Dashboard
-* 📩 Applicant Management
+* 👨‍💼 Applicant Management
 * 📥 Resume Storage
+* 🔔 Application Notifications
 
 **Tech:** Python, Streamlit, MongoDB, PyMongo, NLP, pdfplumber, Scikit-learn
 
 ---
 
-### ⚽ World Cup Data Analysis Dashboard
+## ⚽ World Cup Data Analysis Dashboard
 
-Interactive data analytics dashboard for exploring and visualizing **FIFA World Cup data**.
+Interactive **FIFA World Cup Data Analysis Dashboard** built to explore and visualize football data.
+
+### 🔹 Features
+
+* Interactive data visualization
+* Statistical analysis
+* Data filtering
+* Charts and graphs
+* Dashboard-based analysis
 
 **Tech:** Python, Pandas, Matplotlib, Streamlit, Data Analysis
 
-🔗 [https://github.com/Palak5050/world-cup-data-analysis-dashboard](https://github.com/Palak5050/world-cup-data-analysis-dashboard)
+🔗 https://github.com/Palak5050/world-cup-data-analysis-dashboard
+
+---
+
+# 📊 Data Analytics Skills
+
+📌 Data Cleaning
+📌 Data Preprocessing
+📌 Exploratory Data Analysis
+📌 Data Visualization
+📌 Statistical Analysis
+📌 Dashboard Development
+📌 Business Intelligence
+📌 KPI Analysis
+📌 Power BI
+📌 Tableau
+📌 Python Analytics
 
 ---
 
@@ -155,20 +248,24 @@ Interactive data analytics dashboard for exploring and visualizing **FIFA World 
 
 ```text
 Machine Learning
-      ↓
+        ↓
 Deep Learning
-      ↓
+        ↓
 Neural Networks
-      ↓
+        ↓
 NLP
-      ↓
+        ↓
 LLMs
-      ↓
+        ↓
+Generative AI
+        ↓
 RAG Applications
-      ↓
-AI Application Development
-      ↓
-FastAPI + React
+        ↓
+FastAPI
+        ↓
+React
+        ↓
+Full-Stack AI Applications
 ```
 
 🔹 Deep Learning & Neural Networks
@@ -176,29 +273,38 @@ FastAPI + React
 🔹 Large Language Models
 🔹 Retrieval-Augmented Generation (RAG)
 🔹 Generative AI Applications
+🔹 Prompt Engineering
+🔹 Vector Search & Embeddings
 🔹 FastAPI & REST APIs
-🔹 React for AI Application Frontends
-🔹 Model Deployment
+🔹 React for AI Applications
+🔹 AI Model Deployment
 
 ---
 
-# 📈 My Interests
+# 🎯 Areas of Interest
 
 🤖 Artificial Intelligence
-🧠 Machine Learning & Deep Learning
+🧠 Machine Learning
+🔬 Deep Learning
+🧬 Neural Networks
 💬 NLP & LLMs
 🔎 RAG & Generative AI
 📊 Data Analytics
+📈 Business Intelligence
+📊 Power BI & Tableau
 🐍 Python Development
 🌐 AI-powered Web Applications
-☁️ ML Model Deployment
+🚀 AI Application Development
 
 ---
 
 # 🌐 Connect With Me
 
 💼 **LinkedIn:**
-[https://www.linkedin.com/in/palak-sharma-7b8552349/](https://www.linkedin.com/in/palak-sharma-7b8552349/)
+https://www.linkedin.com/in/palak-sharma-7b8552349/
+
+🐙 **GitHub:**
+https://github.com/Palak5050
 
 📧 **Email:**
 [sharmapalak5275@gmail.com](mailto:sharmapalak5275@gmail.com)
@@ -213,56 +319,3 @@ FastAPI + React
 <p align="center">
   <i>Turning data into insights and ideas into intelligent applications.</i>
 </p>
-<h1 align="center">Hi 👋, I'm Palak Sharma</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Data Analytics</h3>
-
----
-
-# 💫 About Me:
-🚀 AI/ML Enthusiast & Python Developer  
-📊 Focused on Machine Learning, Data Analytics & real-world ML applications  
-🛠️ Building end-to-end ML projects using Python & Streamlit  
-📚 Experience in data preprocessing, feature engineering & model training  
-🧠 Strong interest in solving business problems using data-driven approaches  
-🌱 Currently learning ML, basic NLP & model deployment  
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-sharma-7b8552349/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmapalak5275@gmail.com)
-
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📌 Featured Projects:
-🔹 **Bank Loan Prediction**  
-Machine Learning project to predict bank loan approval using customer data.  
-Built with Python, Scikit-learn & Streamlit.  
-🔗 https://github.com/Palak5050/bank-loan-prediction  
-
-🔹 **World Cup Data Analysis Dashboard**  
-Interactive Streamlit dashboard for FIFA World Cup data analysis.  
-🔗 https://github.com/Palak5050/world-cup-data-analysis-dashboard  
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/palak-sharma-7b8552349  
-- 📧 Email: palaksharma75238@gmail.com - sharmapalak5275@gmail.com
-
----
-
-⭐ *Always learning, building, and improving.*
