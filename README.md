@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Palak%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=20" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Palak Sharma</h1>
 
 <h3 align="center">AI/ML Enthusiast | Python Developer | Data Analyst | Generative AI Learner</h3>
@@ -117,15 +113,20 @@
 
 🏦 <b>Bank Loan Prediction</b><br> <a href="https://github.com/Palak5050/bank-loan-prediction">
 View Repository </a>
-
 <br><br>
 
 🏠 <b>Home Price Prediction</b>
-
+- Developed a machine learning application to predict house prices based on property features.
+- Used **Python, Pandas, NumPy and Scikit-learn** for data preprocessing and model development.
+- Implemented **Linear Regression, Ridge Regression and Lasso Regression** with feature scaling.
+- Built an interactive **Streamlit** interface for real-time house price prediction.
 <br><br>
 
-📄 <b>CAREER BOOST — Resume Analyser</b>
-
+📄 <b>CAREER BOOST – Resume Analyser</b>
+- Developed an AI-based resume analysis application to extract and analyze information from PDF resumes.
+- Used **Python, Streamlit, MongoDB, PyMongo and pdfplumber** for application development and data storage.
+- Implemented **NLP techniques** for skill extraction, resume analysis and career recommendations.
+- Added features for **job applications, company dashboard, applicant management and resume storage**.
 <br><br>
 
 ⚽ <b>World Cup Data Analysis Dashboard</b><br> <a href="https://github.com/Palak5050/world-cup-data-analysis-dashboard">
